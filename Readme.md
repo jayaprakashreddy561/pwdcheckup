@@ -18,7 +18,7 @@ PwdCheckup is a powerful password strength checker designed for Kali Linux. It e
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/PwdCheckup.git
+git clone https://github.com/jayaprakashreddy561/PwdCheckup.py
 cd PwdCheckup
 pip install -r requirements.txt
 ```
