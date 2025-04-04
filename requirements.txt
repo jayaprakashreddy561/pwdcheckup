@@ -1,0 +1,4 @@
+pyfiglet
+argparse
+colorama
+passlib
